@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/cli": "^12.0.2",
+    "angular-flash-message": "^3.4.0"
+  }
+}
